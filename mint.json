@@ -23,11 +23,23 @@
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://developers.broadcaad.com"
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "Developers Authentication",
+      "url": "api-reference"
+    },
+    {
+      "name": "Vendors Apis Docs",
+      "url": "api-reference"
+    },
+    {
+      "name": "Shipper Api Docs",
+      "url": "api-reference"
+    },
+    {
+      "name": "Wallet Apis Docs",
       "url": "api-reference"
     }
   ],
