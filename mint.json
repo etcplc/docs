@@ -27,19 +27,7 @@
   },
   "tabs": [
     {
-      "name": "Developers Authentication",
-      "url": "api-reference"
-    },
-    {
-      "name": "Vendors Apis Docs",
-      "url": "api-reference"
-    },
-    {
-      "name": "Shipper Api Docs",
-      "url": "api-reference"
-    },
-    {
-      "name": "Wallet Apis Docs",
+      "name": "API Reference",
       "url": "api-reference"
     }
   ],
