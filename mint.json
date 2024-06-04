@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "BroadCaad Developers",
   "logo": {
-    "dark": "/logo/brodcaadLogo.png",
-    "light": "/logo/logo2.png"
+    "light": "/logo/brodcaadLogo.png",
+    "dark": "/logo/logo2.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
